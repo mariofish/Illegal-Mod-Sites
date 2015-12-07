@@ -5,7 +5,6 @@ Illegal Sites
 - http:// 5minecraft net/
 - http:// mod-minecraft net/
 - http:// www modsminecraft org/
-- http:// www skydaz com/
 - http:// www minecraftmods com/
 - http:// minecraftsix com/
 - http:// www minecraftexe com/
